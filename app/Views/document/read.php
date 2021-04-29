@@ -47,7 +47,7 @@
 
                                        <div class="col-md-12">
                 
-                <div class="border p-2 my-2 d-none" id="plantilla"></div>
+                <div class="summernote" id="plantilla"></div>
             </div>
             </div>
         </div>
